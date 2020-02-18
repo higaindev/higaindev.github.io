@@ -1,0 +1,28 @@
+# Site settings
+title: hi gain dev
+email:
+description: > # this means to ignore newlines until "baseurl:"
+  Блог про программирование и о его изучении
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+# User setting
+owner: Dmytro Hoi
+email:
+facebook_username:
+twitter_username:
+github_username: higaindev
+linkedin_username: higaindev
+telegram_username: higaindev
+address:
+  - line:
+  - line:
+  # Feel free to add more lines here
+telephone:
+copyright: 2020
+
+# API settings
+google_api_key:
+
+# Build settings
+markdown: kramdown
